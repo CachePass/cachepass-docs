@@ -1,0 +1,7 @@
+# cachepass-docs contains documentation only. Defensive ignores so that nothing
+# sensitive is committed here by accident.
+.env
+.env.*
+*.dump
+backups/
+.DS_Store
